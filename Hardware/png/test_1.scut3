@@ -1,0 +1,632 @@
+<xml version="1.0" encoding="UTF-8">
+<sure_cuts_alot version_major="3" version_minor="56" product="scal3pro">
+<project_notes title="" author="" email="" website="" notes="" category="" keyword1="" keyword2="" keyword3="" keyword4="" description="" cut_type="cut" help="none" />
+<preview data="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" />
+<scal3_data mat_wu="12000" mat_hu="12000" material_wu="12000" material_hu="12000" mat_f="1624" mat_c="7103" mat_orientation="vertical" mat_units="in" mat_zoom="0.402108" tool_type="arrow" >
+<pages current="0">
+<page id="1" name="Page 1" color="4278190335" >
+<selection></selection><objects><group  id="749" library="updated_test_etch_copper_top.svg" name="updated_test_etch_copper_top.svg" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<group  id="754" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="755" library="" name="connector0pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="25677" >
+<path i="1" t="u" s="2122" pts="Mp:398,3977.42 Cp:399.538,5219.42,400.784,5841.66,400.784,4106.2 Cp:400.784,3238.74,399.538,2805.98,398,2588.98 Cp:396.462,2479.98,395.216,2424.74,395.216,2396.2 Cp:395.216,2380.66,396.462,2372.42,398,2369.42 Z;"/>
+</path_list>
+</shape>
+<shape  id="756" library="" name="connector1pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="58810" >
+<path i="1" t="u" s="3141" pts="Mp:2132.4,3213.42 Cp:3157.94,4109.42,4183.18,4558.66,1111.18,4784.2 Cp:2135.18,2849.74,3157.94,1882.98,4180.4,1398.98 Cp:1106.86,1156.98,2129.62,1034.74,3153.62,973.2 Cp:4177.62,941.662,1106.86,925.416,2132.4,917.416 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="761" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="762" library="" name="connector0pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="252" >
+<path i="1" t="u" s="2593" pts="Mp:1699.6,3037.98 Cp:1698.06,2326.98,1696.82,1969.74,1696.82,1790.2 Cp:1696.82,1699.66,1698.06,1654.42,1699.6,1632.42 Cp:1701.14,1621.42,1702.38,1616.66,1702.38,1615.2 Cp:1702.38,1615.74,1701.14,1615.98,1699.6,1615.98 Z;"/>
+</path_list>
+</shape>
+<shape  id="763" library="" name="connector1pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="32791" >
+<path i="1" t="u" s="3954" pts="Mp:2053.2,5867.98 Cp:2179.66,4873.98,2306.42,4375.74,2434.42,6173.2 Cp:2562.42,5023.66,2691.66,4448.42,2821.2,4161.42 Cp:2950.74,4017.42,3079.98,3946.66,3207.98,3912.2 Cp:3335.98,3895.74,3462.74,3887.98,3589.2,3883.98 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="767" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="768" library="" name="square" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="34840" >
+<path i="1" t="u" s="345" pts="Mp:1020.16,1959.36 Lp:1281.44,1355.36 Lp:1537.44,1058.64 Lp:1788.16,2955.64 Lp:2044.16,1850.36 Z;"/>
+</path_list>
+</shape>
+<shape  id="769" library="" name="connector0pin_2_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="41982" >
+<path i="1" t="u" s="3903" pts="Mp:1684.16,4264 Cp:1684.16,5079.54,1685.34,3438.36,1686.8,4666.36 Cp:1688.26,3232.36,1689.44,2516.54,1689.44,2160 Cp:1689.44,1982.46,1688.26,1893.64,1686.8,1848.64 Cp:1685.34,1826.64,1684.16,1814.46,1684.16,1807 Z;"/>
+</path_list>
+</shape>
+<shape  id="770" library="" name="connector7pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="27190" >
+<path i="1" t="u" s="1286" pts="Mp:1774.96,5798 Cp:1838.96,6869.54,1904.14,7404.36,1969.6,5624.36 Cp:2035.06,4734.36,2100.24,4290.54,2164.24,4070 Cp:2228.24,3960.46,2291.06,3905.64,2353.6,3877.64 Cp:2416.14,3863.64,2478.96,3855.46,2542.96,3851 Z;"/>
+</path_list>
+</shape>
+<shape  id="771" library="" name="connector1pin_2_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="53161" >
+<path i="1" t="u" s="2133" pts="Mp:2582.16,7188.6 Cp:3094.16,5651.14,3607.34,6929.96,4120.8,7569.96 Cp:4634.26,5841.96,5147.44,4979.14,5659.44,4548.6 Cp:2075.44,4334.06,2586.26,4227.24,3096.8,4173.24 Cp:3607.34,4146.24,4118.16,4132.06,4630.16,4123.6 Z;"/>
+</path_list>
+</shape>
+<shape  id="772" library="" name="connector6pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="41882" >
+<path i="1" t="u" s="3634" pts="Mp:1998.96,3223.6 Cp:3022.96,4131.14,4048.14,2535.96,977.6,3786.96 Cp:2003.06,2364.96,3028.24,1655.14,4052.24,1300.6 Cp:980.24,1124.06,2003.06,1036.24,3025.6,992.24 Cp:4048.14,970.24,974.96,958.058,1998.96,950.6 Z;"/>
+</path_list>
+</shape>
+<shape  id="773" library="" name="connector2pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="41545" >
+<path i="1" t="u" s="2358" pts="Mp:2328.16,3296.2 Cp:2840.16,4606.74,3353.34,3213.56,3866.8,4565.56 Cp:4380.26,3193.56,4893.44,2508.74,5405.44,2167.2 Cp:1821.44,1997.66,2332.26,1912.84,2842.8,1869.84 Cp:3353.34,1848.84,3864.16,1836.66,4376.16,1830.2 Z;"/>
+</path_list>
+</shape>
+<shape  id="774" library="" name="connector5pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="62847" >
+<path i="1" t="u" s="2714" pts="Mp:104.96,225.2 Cp:104.96,217.742,106.142,213.56,107.6,211.56 Cp:109.058,2258.56,110.24,1235.74,110.24,725.2 Cp:110.24,470.658,109.058,343.84,107.6,279.84 Cp:106.142,247.84,104.96,230.658,104.96,221.2 Z;"/>
+</path_list>
+</shape>
+<shape  id="775" library="" name="connector3pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="12525" >
+<path i="1" t="u" s="2887" pts="Mp:130.16,5934.8 Cp:130.16,6176.34,131.342,4248.16,132.8,3285.16 Cp:134.258,2803.16,135.44,2563.34,135.44,2444.8 Cp:135.44,2386.26,134.258,2357.44,132.8,2342.44 Cp:131.342,2334.44,130.16,2329.26,130.16,2325.8 Z;"/>
+</path_list>
+</shape>
+<shape  id="776" library="" name="connector4pin" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="19117" >
+<path i="1" t="u" s="3088" pts="Mp:1456.96,6532.8 Cp:1456.96,5076.34,1458.14,6395.16,1459.6,5007.16 Cp:1461.06,4313.16,1462.24,3967.34,1462.24,3795.8 Cp:1462.24,3710.26,1461.06,3668.44,1459.6,3646.44 Cp:1458.14,3635.44,1456.96,3629.26,1456.96,3624.8 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="780" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="781" library="" name="square_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="20216" >
+<path i="1" t="u" s="1955" pts="Mp:1616.16,6358.76 Lp:1877.44,4911.76 Lp:2133.44,6242.04 Lp:2384.16,4856.04 Lp:2640.16,4157.76 Z;"/>
+</path_list>
+</shape>
+<shape  id="782" library="" name="connector0pin_3_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="48698" >
+<path i="1" t="u" s="1558" pts="Mp:1210.16,2718.4 Cp:2234.16,2440.94,3259.34,4349.76,188.8,5304.76 Cp:1214.26,3733.76,2239.44,2949.94,3263.44,2558.4 Cp:191.44,2363.86,1214.26,2267.04,2236.8,2218.04 Cp:3259.34,2193.04,186.16,2179.86,1210.16,2172.4 Z;"/>
+</path_list>
+</shape>
+<shape  id="783" library="" name="connector7pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="46789" >
+<path i="1" t="u" s="1631" pts="Mp:670.96,6448.4 Cp:702.96,6629.94,736.142,4671.76,769.6,5741.76 Cp:803.058,4228.76,836.24,3472.94,868.24,3096.4 Cp:900.24,2908.86,931.058,2815.04,961.6,2768.04 Cp:992.142,2744.04,1022.96,2730.86,1054.96,2723.4 Z;"/>
+</path_list>
+</shape>
+<shape  id="784" library="" name="connector1pin_3_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="29125" >
+<path i="1" t="u" s="3809" pts="Mp:390.16,511 Cp:422.16,467.542,455.342,445.36,488.8,2483.36 Cp:522.258,1454.36,555.44,940.542,587.44,685 Cp:619.44,557.458,650.258,494.64,680.8,462.64 Cp:711.342,446.64,742.16,437.458,774.16,432 Z;"/>
+</path_list>
+</shape>
+<shape  id="785" library="" name="connector6pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="58047" >
+<path i="1" t="u" s="2101" pts="Mp:1566.96,2882 Cp:1566.96,4227.54,1568.14,4899.36,1569.6,5236.36 Cp:1571.06,3356.36,1572.24,2417.54,1572.24,1949 Cp:1572.24,1715.46,1571.06,1599.64,1569.6,1540.64 Cp:1568.14,1511.64,1566.96,1495.46,1566.96,1487 Z;"/>
+</path_list>
+</shape>
+<shape  id="786" library="" name="connector2pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="33134" >
+<path i="1" t="u" s="1964" pts="Mp:590.16,1834.6 Cp:590.16,1250.14,591.342,957.96,592.8,2859.96 Cp:594.258,1762.96,595.44,1216.14,595.44,943.6 Cp:595.44,808.058,594.258,740.24,592.8,706.24 Cp:591.342,689.24,590.16,679.058,590.16,673.6 Z;"/>
+</path_list>
+</shape>
+<shape  id="787" library="" name="connector5pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="56074" >
+<path i="1" t="u" s="1441" pts="Mp:1420.96,532.6 Cp:2444.96,2536.14,3470.14,3537.96,399.6,4038.96 Cp:1425.06,2241.96,2450.24,1344.14,3474.24,896.6 Cp:402.24,673.058,1425.06,562.24,2447.6,506.24 Cp:3470.14,478.24,396.96,463.058,1420.96,454.6 Z;"/>
+</path_list>
+</shape>
+<shape  id="788" library="" name="connector3pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="47676" >
+<path i="1" t="u" s="3877" pts="Mp:732.16,1893.2 Cp:732.16,1291.74,733.342,3038.56,734.8,3912.56 Cp:736.258,2301.56,737.44,1496.74,737.44,1095.2 Cp:737.44,895.658,736.258,795.84,734.8,745.84 Cp:733.342,720.84,732.16,706.658,732.16,699.2 Z;"/>
+</path_list>
+</shape>
+<shape  id="789" library="" name="connector4pin_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="6202" >
+<path i="1" t="u" s="1456" pts="Mp:2058.96,6844.2 Cp:3082.96,4927.74,4108.14,3969.56,1037.6,3490.56 Cp:2063.06,3251.56,3088.24,3132.74,4112.24,3074.2 Cp:1040.24,3045.66,2063.06,3031.84,3085.6,3024.84 Cp:4108.14,3020.84,1034.96,3017.66,2058.96,3015.2 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="793" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="794" library="" name="connector0pad" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="28410" >
+<path i="1" t="u" s="1506" pts="Mp:1588.8,5113.77 Cp:2614.25,5826.77,3639.43,6183.95,567.427,4315.4 Cp:1591.43,3381.85,2614.25,2916.03,3636.8,2682.03 Cp:563.349,2565.03,1586.17,2505.85,2610.17,2475.4 Cp:3634.17,2458.95,563.349,2450.77,1588.8,2446.77 Z;"/>
+</path_list>
+</shape>
+<shape  id="795" library="" name="connector1pad" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="57858" >
+<path i="1" t="u" s="3715" pts="Mp:394.8,2492.57 Cp:400.251,3483.57,405.427,3979.75,409.427,4229.2 Cp:413.427,2306.65,416.251,1345.83,418.8,864.827 Cp:421.349,623.827,424.173,502.651,428.173,441.2 Cp:432.173,409.749,437.349,393.573,442.8,385.573 Z;"/>
+</path_list>
+</shape>
+<group  id="796" library="" name="copper0_4_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="797" library="" name="connector0pad_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="46100" >
+<path i="1" t="u" s="1080" pts="Mp:292.8,3217.77 Cp:310.251,3710.77,327.427,1909.95,343.427,3058.4 Cp:359.427,1585.85,374.251,850.027,388.8,481.027 Cp:403.349,297.027,418.173,203.851,434.173,156.4 Cp:450.173,131.949,467.349,118.773,484.8,112.773 Z;"/>
+</path_list>
+</shape>
+<shape  id="798" library="" name="connector1pad_1_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="60291" >
+<path i="1" t="u" s="3510" pts="Mp:758.8,3966.57 Cp:768.251,4400.57,777.427,4618.75,785.427,4728.2 Cp:793.427,2735.65,800.251,1739.83,806.8,1241.83 Cp:813.349,992.827,820.173,866.651,828.173,803.2 Cp:836.173,770.749,845.349,753.573,854.8,745.573 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+</objects>
+</group>
+<group  id="802" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="803" library="" name="connector0pad_2_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="60981" >
+<path i="1" t="u" s="1212" pts="Mp:1662.8,3837.77 Cp:1696.25,4673.77,1729.43,5092.95,1761.43,5303.4 Cp:1793.43,3360.85,1824.25,2390.03,1854.8,1904.03 Cp:1885.35,1661.03,1916.17,1538.85,1948.17,1476.4 Cp:1980.17,1444.95,2013.35,1428.77,2046.8,1420.77 Z;"/>
+</path_list>
+</shape>
+<shape  id="804" library="" name="connector1pad_2_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="43170" >
+<path i="1" t="u" s="2505" pts="Mp:1366.8,3531.57 Cp:1372.25,4400.57,1377.43,2788.75,1381.43,4031.2 Cp:1385.43,2605.65,1388.25,1892.83,1390.8,1535.83 Cp:1393.35,1357.83,1396.17,1267.65,1400.17,1221.2 Cp:1404.17,1197.75,1409.35,1185.57,1414.8,1179.57 Z;"/>
+</path_list>
+</shape>
+<group  id="805" library="" name="copper0_5_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="806" library="" name="connector0pad_3_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="62314" >
+<path i="1" t="u" s="819" pts="Mp:2486.8,6315.77 Cp:3512.25,6916.77,4537.43,7217.95,1465.43,7369.4 Cp:2489.43,5397.85,3512.25,4413.03,4534.8,3920.03 Cp:1461.35,3673.03,2484.17,3548.85,3508.17,3485.4 Cp:4532.17,3452.95,1461.35,3436.77,2486.8,3428.77 Z;"/>
+</path_list>
+</shape>
+<shape  id="807" library="" name="connector1pad_3_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="22725" >
+<path i="1" t="u" s="2181" pts="Mp:816.8,761.573 Cp:850.251,2726.57,883.427,3710.75,915.427,2155.2 Cp:947.427,1378.65,978.251,990.827,1008.8,795.827 Cp:1039.35,698.827,1070.17,648.651,1102.17,623.2 Cp:1134.17,609.749,1167.35,602.573,1200.8,599.573 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+</objects>
+</group>
+<group  id="811" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="812" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="20885" >
+<path i="1" t="u" s="1449" pts="Mp:1800.24,6800.84 Lp:1826.96,5312.84 Lp:1858.96,6611.56 Lp:1896.24,5215.56 Lp:1928.24,4522.84 Z;"/>
+</path_list>
+</shape>
+<shape  id="813" library="" name="connector0pin_4_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="10477" >
+<path i="1" t="u" s="1672" pts="Mp:1875.6,5785.84 Cp:1874.14,6844.84,1872.96,5324.66,1872.96,4564.2 Cp:1872.96,4182.74,1874.14,3991.56,1875.6,3896.56 Cp:1877.06,3849.56,1878.24,3826.74,1878.24,3816.2 Cp:1878.24,3811.66,1877.06,3809.84,1875.6,3808.84 Z;"/>
+</path_list>
+</shape>
+<shape  id="814" library="" name="connector1pin_4_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="29633" >
+<path i="1" t="u" s="301" pts="Mp:583.6,5154.44 Cp:584.142,5862.44,584.96,6215.26,586.96,4342.8 Cp:588.96,3406.34,592.142,2937.16,595.6,2703.16 Cp:599.058,2586.16,602.24,2529.34,604.24,2501.8 Cp:606.24,2488.26,607.058,2482.44,607.6,2478.44 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="819" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="820" library="" name="rect11" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="17665" >
+<path i="1" t="u" s="3693" pts="Mp:1847.04,4194.44 Lp:1843.76,2950.44 Lp:1845.76,4371.16 Lp:1853.04,3036.16 Lp:1855.04,2374.44 Z;"/>
+</path_list>
+</shape>
+<shape  id="821" library="" name="connector0pin_5_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="56350" >
+<path i="1" t="u" s="1713" pts="Mp:1524.4,1743.16 Cp:1525.86,3611.16,1527.04,4546.34,1527.04,5014.8 Cp:1527.04,3202.26,1525.86,2296.44,1524.4,1842.44 Cp:1522.94,1615.44,1521.76,1501.26,1521.76,1442.8 Cp:1521.76,1413.34,1522.94,1398.16,1524.4,1391.16 Z;"/>
+</path_list>
+</shape>
+<shape  id="822" library="" name="connector1pin_5_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="26494" >
+<path i="1" t="u" s="3445" pts="Mp:572.4,5170.76 Cp:573.858,5877.76,575.04,6232.94,575.04,4363.4 Cp:575.04,3428.86,573.858,2962.04,572.4,2728.04 Cp:570.942,2611.04,569.76,2551.86,569.76,2521.4 Cp:569.76,2504.94,570.942,2496.76,572.4,2492.76 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="826" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="827" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="2312" >
+<path i="1" t="u" s="3823" pts="Mp:2336.64,7211.64 Lp:2587.36,5677.64 Lp:2843.36,4905.36 Lp:3104.64,4522.36 Lp:3360.64,4335.64 Z;"/>
+</path_list>
+</shape>
+<shape  id="828" library="" name="connector0pin_6_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="41100" >
+<path i="1" t="u" s="184" pts="Mp:698.64,874 Cp:698.64,2842.46,697.458,1778.64,696,3294.64 Cp:694.542,2004.64,693.36,1358.46,693.36,1034 Cp:693.36,871.542,694.542,789.36,696,749.36 Cp:697.458,729.36,698.64,720.542,698.64,717 Z;"/>
+</path_list>
+</shape>
+<shape  id="829" library="" name="connector1pin_6_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="26304" >
+<path i="1" t="u" s="3572" pts="Mp:373.24,5250 Cp:374.24,5974.46,374.058,6336.64,373.6,4469.64 Cp:373.142,3535.64,372.96,3067.46,373.96,2833 Cp:374.96,2714.54,377.142,2655.36,379.6,2626.36 Cp:382.058,2611.36,384.24,2605.54,385.24,2603 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="833" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="834" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="31585" >
+<path i="1" t="u" s="387" pts="Mp:604.64,6134.24 Lp:601.36,6333.24 Lp:603.36,6426.96 Lp:610.64,4428.96 Lp:612.64,3435.24 Z;"/>
+</path_list>
+</shape>
+<shape  id="835" library="" name="connector0pin_7_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="48655" >
+<path i="1" t="u" s="3239" pts="Mp:1532,2819.24 Cp:1530.54,2133.24,1529.36,3837.06,1529.36,4688.6 Cp:1529.36,3065.14,1530.54,2252.96,1532,1847.96 Cp:1533.46,1644.96,1534.64,1545.14,1534.64,1495.6 Cp:1534.64,1472.06,1533.46,1460.24,1532,1454.24 Z;"/>
+</path_list>
+</shape>
+<shape  id="836" library="" name="connector1pin_7_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="27205" >
+<path i="1" t="u" s="927" pts="Mp:1144,4687.84 Cp:1174.54,5846.84,1205.36,6424.66,1237.36,4665.2 Cp:1269.36,3784.74,1302.54,3343.56,1336,3123.56 Cp:1369.46,3013.56,1402.64,2959.74,1434.64,2934.2 Cp:1466.64,2921.66,1497.46,2915.84,1528,2912.84 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="840" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="841" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="4320" >
+<path i="1" t="u" s="1570" pts="Mp:1610.84,6593.24 Lp:1606.56,5120.24 Lp:1607.56,4378.96 Lp:1613.84,4010.96 Lp:1614.84,3832.24 Z;"/>
+</path_list>
+</shape>
+<shape  id="842" library="" name="connector0pin_8_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="52081" >
+<path i="1" t="u" s="2634" pts="Mp:957.84,5772.6 Cp:959.84,4383.06,960.658,5737.24,961.2,6413.24 Cp:961.742,4703.24,962.56,3847.06,964.56,3418.6 Cp:966.56,3203.14,969.742,3094.96,973.2,3041.96 Cp:976.658,3014.96,979.84,3003.14,981.84,2997.6 Z;"/>
+</path_list>
+</shape>
+<shape  id="843" library="" name="connector1pin_8_" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="43032" >
+<path i="1" t="u" s="2137" pts="Mp:513.44,2259.6 Cp:769.44,3257.06,1024.26,1708.24,1278.8,2981.24 Cp:1533.34,1569.24,1788.16,862.058,2044.16,507.6 Cp:2300.16,330.142,2557.34,240.96,2814.8,196.96 Cp:3072.26,174.96,3329.44,165.142,3585.44,160.6 Z;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<shape  id="845" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="51299" >
+<path i="1" t="u" s="2083" pts="Mp:391.2,2421.4 Lp:399.2,1347.09 ;"/>
+</path_list>
+</shape>
+<shape  id="847" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="471" >
+<path i="1" t="u" s="3311" pts="Mp:1670.03,5269.4 Lp:1791.2,4323.4 ;"/>
+</path_list>
+</shape>
+<group  id="848" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="850" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="3600" >
+<path i="1" t="u" s="2750" pts="Mp:557,3631.8 Lp:558,1967 ;"/>
+</path_list>
+</shape>
+<shape  id="852" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="21939" >
+<path i="1" t="u" s="4038" pts="Mp:906,3470 Lp:914,5132.35 ;"/>
+</path_list>
+</shape>
+<shape  id="854" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="52467" >
+<path i="1" t="u" s="595" pts="Mp:1744.35,5723.8 Lp:1836,4745.8 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="855" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="857" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="59712" >
+<path i="1" t="u" s="3636" pts="Mp:1788.2,6795.6 Lp:1789.2,7294.6 ;"/>
+</path_list>
+</shape>
+<shape  id="859" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="7402" >
+<path i="1" t="u" s="2301" pts="Mp:2017.2,3706.6 Lp:3048.05,5376.6 ;"/>
+</path_list>
+</shape>
+<shape  id="861" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="19002" >
+<path i="1" t="u" s="2086" pts="Mp:2266.05,3545.6 Lp:3283.2,2369.6 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="862" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="864" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="55476" >
+<path i="1" t="u" s="1064" pts="Mp:532.8,6169.2 Lp:532.347,4322.2 ;"/>
+</path_list>
+</shape>
+<shape  id="866" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="60900" >
+<path i="1" t="u" s="4029" pts="Mp:926.8,6808.4 Lp:942.8,6941.2 ;"/>
+</path_list>
+</shape>
+<shape  id="868" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="16711" >
+<path i="1" t="u" s="914" pts="Mp:581.2,3127.6 Lp:709.2,2798.4 ;"/>
+</path_list>
+</shape>
+<shape  id="870" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="48139" >
+<path i="1" t="u" s="1544" pts="Mp:3129.2,1461.4 Lp:1138.8,1328.4 ;"/>
+</path_list>
+</shape>
+<shape  id="872" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="5609" >
+<path i="1" t="u" s="2149" pts="Mp:1718.05,7132.6 Lp:2223.2,5192.6 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="873" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="875" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="18313" >
+<path i="1" t="u" s="3890" pts="Mp:1996.4,6499 Lp:2482.35,5044 ;"/>
+</path_list>
+</shape>
+<shape  id="877" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="24178" >
+<path i="1" t="u" s="117" pts="Mp:1576.4,7478.02 Lp:1580.4,5527 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="878" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="880" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="33880" >
+<path i="1" t="u" s="1027" pts="Mp:438,1315 Lp:694,607.2 ;"/>
+</path_list>
+</shape>
+<shape  id="882" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="14254" >
+<path i="1" t="u" s="1528" pts="Mp:844,6706.2 Lp:927.509,6856.2 ;"/>
+</path_list>
+</shape>
+<shape  id="884" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="none" fill_color="4294967295" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="55257" >
+<path i="1" t="u" s="2095" pts="Mp:534.853,212 Lp:1040,2258 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="885" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="887" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="none" fill_color="4294967295" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="3282" >
+<path i="1" t="u" s="792" pts="Mp:2152,5961 Lp:2117.6,4942 ;"/>
+</path_list>
+</shape>
+<shape  id="889" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="59471" >
+<path i="1" t="u" s="2566" pts="Mp:1338,3428.45 Lp:1338,4287 ;"/>
+</path_list>
+</shape>
+<shape  id="891" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="29121" >
+<path i="1" t="u" s="2832" pts="Mp:525.6,6026 Lp:527.6,6249.2 ;"/>
+</path_list>
+</shape>
+<shape  id="893" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="12904" >
+<path i="1" t="u" s="949" pts="Mp:1443.6,6034.05 Lp:1699.6,6612.2 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="894" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="896" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="14099" >
+<path i="1" t="u" s="3761" pts="Mp:921.6,3734.8 Lp:946.053,3365.8 ;"/>
+</path_list>
+</shape>
+<shape  id="898" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="29314" >
+<path i="1" t="u" s="701" pts="Mp:651.6,5520.2 Lp:655.6,6265.8 ;"/>
+</path_list>
+</shape>
+<shape  id="900" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="15064" >
+<path i="1" t="u" s="1183" pts="Mp:2039.6,7836.2 Lp:2312.05,7870.2 ;"/>
+</path_list>
+</shape>
+<shape  id="902" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="3577" >
+<path i="1" t="u" s="2871" pts="Mp:1129.6,3870.4 Lp:1641.6,2335.2 ;"/>
+</path_list>
+</shape>
+<shape  id="904" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="2477" >
+<path i="1" t="u" s="1171" pts="Mp:1238.4,4934.4 Lp:1161.6,4022.4 ;"/>
+</path_list>
+</shape>
+<shape  id="906" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="39723" >
+<path i="1" t="u" s="1167" pts="Mp:4042.4,8055.4 Lp:1994.4,6060.05 ;"/>
+</path_list>
+</shape>
+<shape  id="908" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="46666" >
+<path i="1" t="u" s="2327" pts="Mp:2850,7704.4 Lp:3864.4,7744.4 ;"/>
+</path_list>
+</shape>
+<shape  id="910" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="41083" >
+<path i="1" t="u" s="2155" pts="Mp:2604,1493.09 Lp:556,2987.4 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="911" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="913" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="58718" >
+<path i="1" t="u" s="2773" pts="Mp:169.2,2232.6 Lp:169.2,3272.4 ;"/>
+</path_list>
+</shape>
+<shape  id="915" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="43264" >
+<path i="1" t="u" s="731" pts="Mp:2042.2,3449.4 Lp:2036.35,4738.4 ;"/>
+</path_list>
+</shape>
+<shape  id="917" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="57451" >
+<path i="1" t="u" s="4017" pts="Mp:2187.65,2204.4 Lp:123.2,3221.4 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<group  id="918" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4287137928" stroke_type="color" stroke_color="4287137928" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="0" h="0" i="1" />
+<objects>
+<shape  id="920" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="49140" >
+<path i="1" t="u" s="3651" pts="Mp:1236.4,5114.38 Lp:1252.4,4180.15 ;"/>
+</path_list>
+</shape>
+<shape  id="922" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="49910" >
+<path i="1" t="u" s="1082" pts="Mp:1798.85,4715.2 Lp:1848.22,4255.2 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+<shape  id="924" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="30459" >
+<path i="1" t="u" s="2001" pts="Mp:3602.03,7409.2 Lp:1540.35,7486.2 ;"/>
+</path_list>
+</shape>
+<shape  id="926" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="24417" >
+<path i="1" t="u" s="3298" pts="Mp:184,3776.6 Lp:186,5075.25 ;"/>
+</path_list>
+</shape>
+<shape  id="928" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="7791" >
+<path i="1" t="u" s="403" pts="Mp:128.8,88.6333 Lp:128.8,2121.97 ;"/>
+</path_list>
+</shape>
+<shape  id="930" library="" name="" layer_color="4278246656" visible="true" locked="false" expanded="false" fill_type="color" fill_color="4278190080" stroke_type="color" stroke_color="4278190080" cutdraw_type="cut" style="normal" shadow_type="rounded" shadow_size="1" keep_aspect_ratio="true" selected="false" weld="false" perm_group="false" path_object="false" rotate_type="angle" >
+<transform a="1" b="0" c="0" d="0" e="1" f="0" g="14.4419" h="9.46816" i="1" />
+<path_list emw="1" emh="1" emx="50700" >
+<path i="1" t="u" s="1756" pts="Mp:518.853,4189.6 Lp:512,3363.6 ;"/>
+</path_list>
+</shape>
+</objects>
+</group>
+</objects></page>
+</pages>
+</scal3_data>
+</sure_cuts_alot>
+
+</xml>
