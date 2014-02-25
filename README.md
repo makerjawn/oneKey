@@ -2,7 +2,7 @@ MaKey MaKey MaKey
 ===========
 
 [![MaKey MaKey MaKey](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg)  
-*MaKey MaKey MaKey Process Blog*](https://jawnware.tumblr.com/)
+*MaKey MaKey MaKey Process Blog*](jawnware.tumblr.com/)
 
 Our Focus
 -------------------
@@ -12,7 +12,7 @@ From Sparkfun's [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeym
 
 **What is a MaKey MaKey?**
 
-*"Using the MaKey MaKey you can make anything into a key (get it?) just by connecting a few alligator clips. The MaKey MaKey is an invention kit that tricks your computer into thinking that almost anything is a keyboard. This allows you to hook up all kinds of fun things as an input.*
+*"Using the MaKey MaKey you can make anything into a key (get it?) just by connecting a few alligator clips. The MaKey MaKey is an invention kit that tricks your computer into thinking that almost anything is a keyboard. This allows you to hook up all kinds of fun things as an input."*
 
 **How does it work?**
 
@@ -36,9 +36,9 @@ This build is solderless, can be built in less than an hour.
 
 Sources
 -------------------
-* [*BhavyaShukla - Makey-makey-using-arduino-uno-r3-Multiple-input](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
-* [*Flip's - 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605)
-* [*JoyLab's/Sparkfun's - MaKey MaKey](http://blog.flipwork.nl/?x=entry:entry081009-142605)
+* [BhavyaShukla - Makey-makey-using-arduino-uno-r3-Multiple-input](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
+* [Flip's - 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605)
+* [JoyLab's/Sparkfun's - MaKey MaKey](http://blog.flipwork.nl/?x=entry:entry081009-142605)
 
 
 License Information
