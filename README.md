@@ -32,9 +32,9 @@ This build is solderless, can be built in less than an hour.
 
 Sources
 -------------------
-[*BhavyaShukla - Makey-makey-using-arduino-uno-r3-Multiple-input](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
-[*Flip's - 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605)
-[*JoyLab's/Sparkfun's - MaKey MaKey](http://blog.flipwork.nl/?x=entry:entry081009-142605)
+* **/[*BhavyaShukla - Makey-makey-using-arduino-uno-r3-Multiple-input](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
+* **/[*Flip's - 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605)
+* **/[*JoyLab's/Sparkfun's - MaKey MaKey](http://blog.flipwork.nl/?x=entry:entry081009-142605)
 
 
 License Information
