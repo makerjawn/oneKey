@@ -8,6 +8,8 @@ Our Focus
 -------------------
 Developing a low-cost and accessible derivative of the MaKey MaKey so that it can be sustainably deployed via workshops at various library branches.
 
+From Sparkfun's [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeymakey):
+
 **What is a MaKey MaKey?**
 
 *"Using the MaKey MaKey you can make anything into a key (get it?) just by connecting a few alligator clips. The MaKey MaKey is an invention kit that tricks your computer into thinking that almost anything is a keyboard. This allows you to hook up all kinds of fun things as an input.*
@@ -15,7 +17,7 @@ Developing a low-cost and accessible derivative of the MaKey MaKey so that it ca
 **How does it work?**
 
 *"The MaKey MaKey uses high resistance switching to detect when you've made a connection even through materials that aren't very conductive (like leaves, pasta or people). This technique attracts noise on the input, so a moving window averager is used to lowpass the noise. The on-board ATMega32u4 communicates with your computer using the Human Interface Device (HID) protocol which means that it can act like a keyboard or mouse."*
-- [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeymakey) 
+
 
 Repository Contents
 -------------------
