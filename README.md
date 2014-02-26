@@ -1,7 +1,8 @@
 MaKey MaKey MaKey
 ===========
 
-[![MaKey MaKey MaKey](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg)  
+[![MaKey MaKey MaKey](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg) 
+ 
 *MaKey MaKey MaKey Process Blog*](jawnware.tumblr.com/)
 
 Our Focus
