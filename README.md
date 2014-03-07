@@ -8,7 +8,7 @@ jawnWare
 
 Our Focus
 -------------------
-Developing a low-cost and accessible derivative of the MaKey MaKey so that it can be sustainably deployed via workshops at various library branches.
+Developing a low-cost and accessible derivative of the MaKey MaKey so that it can be sustainably deployed via workshops at various library branches. The aim is to introduce youth in underserved/low-income communities to making hardware that they can then tinker/play/make with. The goal is for them to take more ownership of their tools and pilot the production of learning hardware/platforms within the library itself.
 
 From Sparkfun's [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeymakey):
 
