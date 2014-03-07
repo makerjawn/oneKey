@@ -20,6 +20,8 @@ From Sparkfun's [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeym
 
 *"The MaKey MaKey uses high resistance switching to detect when you've made a connection even through materials that aren't very conductive (like leaves, pasta or people). This technique attracts noise on the input, so a moving window averager is used to lowpass the noise. The on-board ATMega32u4 communicates with your computer using the Human Interface Device (HID) protocol which means that it can act like a keyboard or mouse."*
 
+Currently I've cobbled together some code/circuits to quickly prototype with 2 ATTINY85's. It's definitely not as streamlined as I'd like, but over time I plan on iterating to lower the cost(currently ~$3.50). As of right now I'm more focused on building instructors/how-to materials and seeing how participants interact with eveything.
+
 
 Repository Contents
 -------------------
