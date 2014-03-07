@@ -2,7 +2,9 @@ jawnWare
 ===========
 
 [![jawnWare_8](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg) 
- *jawnWare Process Blog*](jawnware.tumblr.com/)
+
+
+ *jawnWare Process Blog*](http://jawnware.tumblr.com/)
 
 Our Focus
 -------------------
