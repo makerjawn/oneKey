@@ -1,8 +1,8 @@
-MaKey MaKey MaKey
+jawnWare
 ===========
 
-[![MaKey MaKey MaKey](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg) 
- *MaKey MaKey MaKey Process Blog*](jawnware.tumblr.com/)
+[![jawnWare_8](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg) 
+ *jawnWare Process Blog*](jawnware.tumblr.com/)
 
 Our Focus
 -------------------
@@ -38,7 +38,7 @@ Sources
 -------------------
 * [BhavyaShukla - Makey-makey-using-arduino-uno-r3-Multiple-input](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
 * [Flip's - 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605)
-* [JoyLab's/Sparkfun's - MaKey MaKey](http://blog.flipwork.nl/?x=entry:entry081009-142605)
+* [JoyLab's/Sparkfun's - MaKey MaKey](https://github.com/sparkfun/makeymakey)
 
 
 License Information
