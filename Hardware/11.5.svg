@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 83.2 144.3" enable-background="new 0 0 83.2 144.3" xml:space="preserve">
+<g id="Layer_1" display="none">
+	<g display="inline">
+		<line fill="#010101" stroke="#ED1C24" stroke-width="6.12" stroke-linecap="round" x1="22.8" y1="28.7" x2="22.8" y2="93.1"/>
+	</g>
+	<g display="inline">
+		<rect id="connector0pin_7_" x="-63.4" y="48.7" fill="none" width="0.6" height="0.6"/>
+		<rect id="connector1pin_6_" x="-78.9" y="48.7" fill="none" width="0.6" height="0.6"/>
+		
+			<line id="connector0leg_5_" fill="none" stroke="#8C8C8C" stroke-width="2.094" stroke-linecap="round" x1="-58.8" y1="48.7" x2="-59.4" y2="48.7"/>
+		
+			<line id="connector1leg_5_" fill="none" stroke="#8C8C8C" stroke-width="2.094" stroke-linecap="round" x1="-79.7" y1="48.7" x2="-80.3" y2="48.7"/>
+		<rect id="rect7_2_" x="-80.3" y="48.1" fill="#8C8C8C" width="21.8" height="1.3"/>
+		<path id="Body_2_" fill="#A25725" d="M-68.3,50.9h1.3c0.3,0,0.2-4.4,0-4.4h-1.3c-0.2,0-6.8,0-7,0h-1.3c-0.3,0-0.3,4.4,0,4.4h1.3
+			C-75.1,50.9-68.6,50.9-68.3,50.9z"/>
+		<rect id="rect16_2_" x="-69.9" y="46.5" opacity="0.9" enable-background="new    " width="1.2" height="4.4"/>
+		<path id="Reflex_2_" opacity="0.4" fill="#FFFFFF" enable-background="new    " d="M-67.2,50.7c-0.4,0-0.7,0-1.1,0
+			c-0.4,0-6.6,0-7,0c0,0-0.1,0-0.3,0c-0.3,0-0.6,0-0.8,0c-0.2,0-0.7-0.2,0.2-0.2c0.7,0,0.4,0,0.9,0c0.4,0,6.6,0,7,0
+			c0.4,0,0.7,0,1.1,0C-67,50.4-66.8,50.7-67.2,50.7z"/>
+		<path id="Shaddow_2_" opacity="0.6" fill="#F2F2F2" enable-background="new    " d="M-76.6,46.5c0.4,0,0.9,0,1.3,0
+			c0.5,0,7.9,0,8.3,0c0.1,0,0.1,0.4,0.1,0.4c-0.8,0-1,0-1.4,0c-0.4,0-6.6,0-7,0c-0.4,0-1,0-1.5,0C-76.8,46.9-76.7,46.5-76.6,46.5z"
+			/>
+	</g>
+	<g display="inline">
+		<rect id="connector0pin_3_" x="-65.4" y="59.4" fill="none" width="0.6" height="0.6"/>
+		<rect id="connector1pin_3_" x="-81" y="59.4" fill="none" width="0.6" height="0.6"/>
+		
+			<line id="connector0leg_3_" fill="none" stroke="#8C8C8C" stroke-width="2.094" stroke-linecap="round" x1="-67.3" y1="59.3" x2="-68" y2="59.3"/>
+		
+			<line id="connector1leg_3_" fill="none" stroke="#8C8C8C" stroke-width="2.094" stroke-linecap="round" x1="-80.6" y1="59.3" x2="-81.3" y2="59.3"/>
+		<rect id="rect7_1_" x="-81.7" y="58.7" fill="#8C8C8C" width="15.6" height="1.3"/>
+		<path id="Body_1_" fill="#A25725" d="M-70.4,61.5h1.3c0.3,0,0.2-4.4,0-4.4h-1.3c-0.2,0-6.8,0-7,0h-1.3c-0.3,0-0.3,4.4,0,4.4h1.3
+			C-77.1,61.5-70.6,61.5-70.4,61.5z"/>
+		<rect id="rect16_1_" x="-72" y="57.2" opacity="0.9" enable-background="new    " width="1.2" height="4.4"/>
+		<path id="Reflex_1_" opacity="0.4" fill="#FFFFFF" enable-background="new    " d="M-69.2,61.3c-0.4,0-0.7,0-1.1,0
+			c-0.4,0-6.6,0-7,0c0,0-0.1,0-0.3,0c-0.3,0-0.6,0-0.8,0c-0.2,0-0.7-0.2,0.2-0.2c0.7,0,0.4,0,0.9,0c0.4,0,6.6,0,7,0
+			c0.4,0,0.7,0,1.1,0C-69,61.1-68.8,61.3-69.2,61.3z"/>
+		<path id="Shaddow_1_" opacity="0.6" fill="#F2F2F2" enable-background="new    " d="M-78.7,57.2c0.4,0,0.9,0,1.3,0
+			c0.5,0,7.9,0,8.3,0c0.1,0,0.1,0.4,0.1,0.4c-0.8,0-1,0-1.4,0c-0.4,0-6.6,0-7,0c-0.4,0-1,0-1.5,0C-78.8,57.6-78.8,57.2-78.7,57.2z"
+			/>
+	</g>
+	<g display="inline">
+		<rect id="connector0pin_2_" x="-69.5" y="93.7" fill="none" width="0.7" height="0.7"/>
+		<rect id="connector1pin_2_" x="-69.5" y="64.2" fill="none" width="0.7" height="0.7"/>
+		
+			<line id="connector0leg_2_" fill="none" stroke="#8C8C8C" stroke-width="2.91" stroke-linecap="round" x1="-69.8" y1="93.7" x2="-69.8" y2="92.6"/>
+		
+			<line id="connector1leg_2_" fill="none" stroke="#8C8C8C" stroke-width="2.91" stroke-linecap="round" x1="-69.8" y1="64.9" x2="-69.8" y2="65.9"/>
+		<path fill="none" stroke="#8C8C8C" stroke-width="2.91" d="M-69.8,93.7V65.3"/>
+		<ellipse fill="#D9B477" cx="-69.8" cy="70.8" rx="3.4" ry="2.6"/>
+		<ellipse fill="#D9B477" cx="-69.8" cy="88.1" rx="3.4" ry="2.6"/>
+		<path id="body_2_" fill="#D9B477" d="M-66.7,84.5c0.2,0.4,0.3,1,0.3,1.4v2c0,0.4-0.3,0.7-0.7,0.7h-5.4c-0.4,0-0.7-0.3-0.7-0.7v-2
+			c0-0.4,0.1-1,0.3-1.4l0-0.1c0.2-0.4,0.3-1,0.3-1.4v-7.2c0-0.4-0.1-1-0.3-1.4l0-0.1c-0.2-0.4-0.3-1-0.3-1.4v-2
+			c0-0.4,0.3-0.7,0.7-0.7h5.4c0.4,0,0.7,0.3,0.7,0.7v2c0,0.4-0.1,1-0.3,1.4l0,0.1c-0.2,0.4-0.3,1-0.3,1.4V83
+			C-67,83.4-66.9,84.1-66.7,84.5L-66.7,84.5z"/>
+		<rect id="gold_band_2_" x="-73.2" y="72" fill="#AD9F4E" width="6.8" height="0.7"/>
+		<rect id="band_rd_multiplier_2_" x="-72.5" y="76.7" width="5.5" height="1.9"/>
+		<rect id="band_2_nd_2_" x="-72.5" y="80.4" fill="#939598" width="5.5" height="1.9"/>
+		<path id="band_1_st_2_" fill="#00AEEF" d="M-66.8,84.1c0,0.1,0.1,0.2,0.1,0.3l0,0.1c0.2,0.4,0.3,1,0.3,1.4v0.1h-6.8v-0.1
+			c0-0.4,0.1-1,0.3-1.4l0-0.1c0-0.1,0.1-0.2,0.1-0.3H-66.8z"/>
+		<path id="Shadow_2_" opacity="0.3" fill="#010101" enable-background="new    " d="M-70.3,71L-70.3,71c-0.4,0-0.7,0.1-0.7,0.3v1.9
+			c0,0.4,0.1,1,0.1,1.3l0,0.1c0.1,0.3,0.1,0.9,0.1,1.3v6.9c0,0.4-0.1,1-0.1,1.3l0,0.1c-0.1,0.3-0.1,0.9-0.1,1.3V86v1v0.3
+			c0,0.4-0.3,0.7-0.6,0.7h-0.2H-72h-0.2c-0.4,0-0.6-0.3-0.6-0.7v-1.6c0-0.4,0.1-1,0.3-1.3l0-0.1c0.1-0.3,0.3-1,0.3-1.3V76
+			c0-0.4-0.1-1-0.3-1.3l0-0.1c-0.1-0.3-0.3-0.9-0.3-1.3V71c0-0.4,0.4-0.7,0.4-0.7s0.4-0.6,1.2-0.7c0.7-0.1,0.7-0.1,1.5-0.1
+			c1.2,0,0.9,0.8,0.9,0.8C-68.9,70.6-69.2,71-70.3,71z"/>
+		<rect id="ShadowExtra_2_" x="-72.8" y="72" opacity="0.4" fill="#010101" enable-background="new    " width="3.2" height="0.7"/>
+		<path id="ReflexRight_2_" opacity="0.25" fill="#FFFFFF" enable-background="new    " d="M-67.2,75c0-0.2,0.1-0.5,0.2-0.7
+			c0.1-0.2,0.1-0.6,0.1-1v-1.5c0-0.2-0.2-0.2-0.4-0.2c-0.1,0-0.4,0-0.4,0.2V75c0,0.1,0.1,0.2,0.2,0.2C-67.4,75.2-67.2,75.1-67.2,75z
+			"/>
+		<circle id="ReflexLeft_2_" opacity="0.35" fill="#FFFFFF" enable-background="new    " cx="-67.3" cy="87.7" r="0.4"/>
+		<rect id="Reflex_gold_2_" x="-68.2" y="72" opacity="0.5" fill="#F8ED39" enable-background="new    " width="1.6" height="0.7"/>
+		
+			<rect id="Reflex_extra_2_" x="-67.7" y="72" opacity="0.5" fill="#FFFFFF" enable-background="new    " width="0.7" height="0.7"/>
+	</g>
+	<g display="inline">
+		
+			<rect id="connector0pin_1_" x="-63.9" y="94.1" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 21.4125 170.1736)" fill="none" width="0.7" height="0.7"/>
+		
+			<rect id="connector1pin_1_" x="-60" y="64.9" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 -2.999 133.1043)" fill="none" width="0.7" height="0.7"/>
+		
+			<line id="connector0leg_1_" fill="none" stroke="#8C8C8C" stroke-width="2.91" stroke-linecap="round" x1="-62.9" y1="94.2" x2="-62.7" y2="93.2"/>
+		
+			<line id="connector1leg_1_" fill="none" stroke="#8C8C8C" stroke-width="2.91" stroke-linecap="round" x1="-59" y1="65.7" x2="-59.1" y2="66.7"/>
+		<path fill="none" stroke="#8C8C8C" stroke-width="2.91" d="M-62.9,94.2l3.8-28.1"/>
+		
+			<ellipse transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 3.025 140.3683)" fill="#D9B477" cx="-59.8" cy="71.5" rx="2.6" ry="3.4"/>
+		
+			<ellipse transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 17.3197 162.1883)" fill="#D9B477" cx="-62.1" cy="88.7" rx="2.6" ry="3.4"/>
+		<path id="body_1_" fill="#D9B477" d="M-64.7,84.7c-0.2,0.3-0.4,0.9-0.5,1.3l-0.3,2c-0.1,0.4,0.2,0.8,0.6,0.8l5.3,0.7
+			c0.4,0.1,0.8-0.2,0.8-0.6l0.3-2c0.1-0.4,0-1-0.1-1.4l0-0.1c-0.1-0.4-0.2-1-0.1-1.4l1-7.1c0.1-0.4,0.3-1,0.5-1.3l0-0.1
+			c0.2-0.3,0.4-0.9,0.5-1.3l0.3-2c0.1-0.4-0.2-0.8-0.6-0.8l-5.3-0.7c-0.4-0.1-0.8,0.2-0.8,0.6l-0.3,2c-0.1,0.4,0,1,0.1,1.4l0,0.1
+			c0.1,0.4,0.2,1,0.1,1.4l-1,7.1C-64.2,83.7-64.5,84.3-64.7,84.7L-64.7,84.7z"/>
+		
+			<rect id="gold_band_1_" x="-60.4" y="69.7" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 4.286 142.3955)" fill="#AD9F4E" width="0.7" height="6.8"/>
+		
+			<rect id="band_rd_multiplier_1_" x="-61.6" y="75.5" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 8.6595 149.0269)" width="1.9" height="5.5"/>
+		
+			<rect id="band_2_nd_1_" x="-62.1" y="79.2" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 11.7255 153.6826)" fill="#939598" width="1.9" height="5.5"/>
+		<path id="band_1_st_1_" fill="#00AEEF" d="M-64.5,84.3c-0.1,0.1-0.1,0.2-0.2,0.3l0,0.1c-0.2,0.3-0.4,0.9-0.5,1.3l0,0.1l6.7,0.9
+			l0-0.1c0.1-0.4,0-1-0.1-1.4l0-0.1c0-0.1-0.1-0.2-0.1-0.3L-64.5,84.3z"/>
+		<path id="Shadow_1_" opacity="0.3" fill="#010101" enable-background="new    " d="M-59.3,71.8L-59.3,71.8
+			c0.4,0.1,0.7,0.2,0.7,0.4l-0.3,1.9c-0.1,0.4-0.2,1-0.3,1.3l0,0.1c-0.1,0.3-0.2,0.9-0.3,1.3l-0.9,6.9c-0.1,0.4-0.1,1-0.1,1.3l0,0.1
+			c0,0.4,0,1-0.1,1.3l0,0.3l-0.1,1l0,0.3c-0.1,0.4,0.2,0.7,0.5,0.8l0.2,0l0.2,0l0.2,0c0.4,0,0.7-0.2,0.7-0.6l0.2-1.6
+			c0.1-0.4,0-1-0.1-1.4l0-0.1c-0.1-0.4-0.1-1-0.1-1.4L-58,77c0.1-0.4,0.3-1,0.4-1.3l0-0.1c0.2-0.3,0.4-0.9,0.4-1.3l0.3-2.2
+			c0.1-0.4-0.3-0.7-0.3-0.7s-0.3-0.7-1.1-0.9c-0.7-0.2-0.7-0.2-1.4-0.3c-1.2-0.2-1,0.7-1,0.7C-60.6,71.2-60.4,71.7-59.3,71.8z"/>
+		
+			<rect id="ShadowExtra_1_" x="-58.9" y="71.7" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 6.1337 141.1787)" opacity="0.4" fill="#010101" enable-background="new    " width="0.7" height="3.2"/>
+		<path id="ReflexRight_1_" opacity="0.25" fill="#FFFFFF" enable-background="new    " d="M-62.9,75.3c0-0.2,0-0.5-0.1-0.7
+			c-0.1-0.2-0.1-0.6,0-1l0.2-1.4c0-0.2,0.3-0.2,0.4-0.2c0.1,0,0.4,0.1,0.3,0.3l-0.4,3c0,0.1-0.1,0.2-0.3,0.2
+			C-62.7,75.5-62.9,75.4-62.9,75.3z"/>
+		<circle id="ReflexLeft_1_" opacity="0.35" fill="#FFFFFF" enable-background="new    " cx="-64.5" cy="88" r="0.4"/>
+		
+			<rect id="Reflex_gold_1_" x="-62.7" y="71.9" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 1.319 144.3494)" opacity="0.5" fill="#F8ED39" enable-background="new    " width="0.7" height="1.6"/>
+		
+			<rect id="Reflex_extra_1_" x="-62.8" y="72.4" transform="matrix(-0.1349 0.9909 -0.9909 -0.1349 1.2238 144.412)" opacity="0.5" fill="#FFFFFF" enable-background="new    " width="0.7" height="0.7"/>
+	</g>
+	<g display="inline">
+		
+			<rect id="connector0pin_6_" x="-48.7" y="87.4" transform="matrix(0.2643 0.9644 -0.9644 0.2643 49.3762 111.1595)" fill="none" width="1" height="1"/>
+		
+			<line id="connector0leg_4_" fill="none" stroke="#8C8C8C" stroke-width="2.91" stroke-linecap="round" x1="-47.7" y1="85.8" x2="-48.1" y2="84.4"/>
+		
+			<line id="connector1leg_4_" fill="none" stroke="#8C8C8C" stroke-width="2.91" stroke-linecap="round" x1="-57.8" y1="49.8" x2="-57.4" y2="51.3"/>
+		<path fill="none" stroke="#8C8C8C" stroke-width="2.91" d="M-47.7,85.8L-57.6,50"/>
+		<path id="body_3_" fill="#D9B477" d="M-55.1,75.8c-0.1,0.6,0,1.5,0.1,2l0.7,2.7c0.1,0.5,0.7,0.9,1.3,0.7l7.4-2
+			c0.5-0.1,0.9-0.7,0.7-1.3l-0.7-2.7c-0.1-0.5-0.6-1.3-0.9-1.8l-0.1-0.1c-0.4-0.4-0.8-1.2-0.9-1.8l-2.7-9.9c-0.1-0.5-0.2-1.4-0.1-2
+			l0-0.1c0.1-0.6,0-1.5-0.1-2l-0.7-2.7c-0.1-0.5-0.7-0.9-1.3-0.7l-7.4,2c-0.5,0.1-0.9,0.7-0.7,1.3l0.7,2.7c0.1,0.5,0.6,1.3,0.9,1.8
+			l0.1,0.1c0.4,0.4,0.8,1.2,0.9,1.8l2.7,9.9c0.1,0.5,0.2,1.4,0.1,2L-55.1,75.8z"/>
+		
+			<rect id="gold_band_3_" x="-56" y="53.1" transform="matrix(0.2643 0.9644 -0.9644 0.2643 15.0508 96.0787)" fill="#AD9F4E" width="1" height="9.7"/>
+		
+			<rect id="band_rd_multiplier_3_" x="-53.6" y="63.4" transform="matrix(0.2643 0.9644 -0.9644 0.2643 26.0377 100.5127)" fill="#ED1C24" width="1.5" height="7.9"/>
+		
+			<rect id="band_2_nd_3_" x="-52.8" y="66.9" transform="matrix(0.2643 0.9644 -0.9644 0.2643 30.1949 102.193)" fill="#009444" width="1.7" height="7.9"/>
+		<path id="band_1_st_3_" fill="#754C29" d="M-55.1,75.2c0,0.2,0,0.3,0,0.5l0,0.1c-0.1,0.6,0,1.5,0.1,2l0,0.1l9.4-2.6l0-0.1
+			c-0.1-0.5-0.6-1.3-0.9-1.8l-0.1-0.1c-0.1-0.1-0.2-0.2-0.3-0.4L-55.1,75.2z"/>
+		<path id="Shadow_3_" opacity="0.3" fill="#010101" enable-background="new    " d="M-55.3,55.9L-55.3,55.9c0.5-0.1,1-0.1,1.1,0.1
+			l0.7,2.6c0.1,0.5,0.3,1.4,0.3,1.9l0,0.1c0,0.5,0.2,1.4,0.3,1.9l2.6,9.6c0.1,0.5,0.4,1.3,0.7,1.8l0,0.1c0.2,0.5,0.5,1.3,0.7,1.8
+			l0.1,0.4l0.4,1.4l0.1,0.4c0.1,0.5,0.7,0.9,1.2,0.7l0.3-0.1l0.2-0.1l0.2-0.1c0.5-0.1,0.8-0.7,0.6-1.2l-0.6-2.2
+			c-0.1-0.5-0.5-1.3-0.9-1.7l-0.1-0.1c-0.3-0.4-0.7-1.2-0.9-1.7l-2.6-9.6c-0.1-0.5-0.2-1.4-0.1-1.9l0-0.1c0.1-0.5,0-1.4-0.1-1.9
+			l-0.8-3.1c-0.1-0.5-0.7-0.9-1.2-0.7l-0.7,0.2l-1.3,0.4l-2.5,0.7C-57.3,55.8-56.7,56.3-55.3,55.9z"/>
+		
+			<rect id="ShadowExtra_3_" x="-53.9" y="55.1" transform="matrix(0.2643 0.9644 -0.9644 0.2643 16.0033 93.7221)" opacity="0.4" fill="#010101" enable-background="new    " width="1" height="4.5"/>
+		<path id="ReflexRight_3_" opacity="0.25" fill="#FFFFFF" enable-background="new    " d="M-57.9,62.5c-0.1-0.3-0.3-0.6-0.5-0.8
+			c-0.2-0.2-0.4-0.7-0.6-1.3l-0.6-2c-0.1-0.3,0.3-0.4,0.4-0.5c0.2,0,0.5-0.1,0.6,0.2l1.2,4.2c0,0.1-0.1,0.4-0.2,0.4
+			C-57.7,62.7-57.9,62.6-57.9,62.5z"/>
+		<circle id="ReflexLeft_3_" opacity="0.35" fill="#FFFFFF" enable-background="new    " cx="-53" cy="80" r="0.6"/>
+		
+			<rect id="Reflex_gold_3_" x="-59.2" y="57.6" transform="matrix(0.2643 0.9644 -0.9644 0.2643 13.5213 99.8629)" opacity="0.5" fill="#F8ED39" enable-background="new    " width="1" height="2.3"/>
+		
+			<rect id="Reflex_extra_3_" x="-59.3" y="58.3" transform="matrix(0.2643 0.9644 -0.9644 0.2643 13.4723 99.9842)" opacity="0.5" fill="#FFFFFF" enable-background="new    " width="1" height="1.1"/>
+	</g>
+	<g display="inline">
+		<line fill="#010101" stroke="#ED1C24" stroke-width="6.12" stroke-linecap="round" x1="22.6" y1="93.1" x2="53.3" y2="93.1"/>
+	</g>
+	<g display="inline">
+		<line fill="#010101" stroke="#010101" stroke-width="6.12" stroke-linecap="round" x1="62.3" y1="37.2" x2="62.3" y2="121.7"/>
+	</g>
+	<g display="inline">
+		<line fill="#010101" stroke="#010101" stroke-width="6.12" stroke-linecap="round" x1="58.3" y1="84.4" x2="30.8" y2="84.4"/>
+	</g>
+	<g display="inline">
+		<line fill="#010101" stroke="#ED1C24" stroke-width="6.12" stroke-linecap="round" x1="54.3" y1="93.1" x2="54.3" y2="105.6"/>
+	</g>
+	<g display="inline">
+		<line fill="#010101" stroke="#939598" stroke-width="6.12" stroke-linecap="round" x1="47" y1="64.8" x2="47" y2="75"/>
+	</g>
+	<g display="inline">
+		<line fill="#39B54A" stroke="#39B54A" stroke-width="6.12" stroke-linecap="round" x1="39.2" y1="64.8" x2="39.2" y2="74.3"/>
+	</g>
+	<g display="inline">
+		<line fill="#39B54A" stroke="#39B54A" stroke-width="6.12" stroke-linecap="round" x1="46.6" y1="101.8" x2="46.6" y2="111.4"/>
+	</g>
+	
+		<rect x="25.6" y="109.8" display="inline" fill="#39B54A" stroke="#39B54A" stroke-width="6.12" stroke-linecap="round" width="21" height="13.6"/>
+	<rect x="52.6" y="111.4" display="inline" width="12.1" height="14.7"/>
+	<g display="inline">
+		<line fill="#010101" stroke="#010101" stroke-width="6.12" stroke-linecap="round" x1="30.6" y1="74" x2="30.6" y2="84.4"/>
+	</g>
+	<g display="inline">
+		<g>
+			<g>
+				<rect id="connector0pin_5_" x="51.6" y="74.4" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector1pin_5_" x="44.6" y="74.4" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector2pin_2_" x="37.5" y="74.4" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector3pin_2_" x="30.5" y="74.4" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector4pin_2_" x="30.5" y="94.5" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector5pin_2_" x="37.5" y="94.5" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector6pin_2_" x="44.6" y="94.5" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector7pin_2_" x="51.6" y="94.5" fill="#8C8C8C" width="2.1" height="3.1"/>
+				<rect id="connector0terminal_1_" x="51.6" y="74.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<rect id="connector1terminal_1_" x="44.6" y="74.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<rect id="connector2terminal_1_" x="37.5" y="74.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<rect id="connector3terminal_1_" x="30.5" y="74.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<rect id="connector4terminal_1_" x="30.5" y="95.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<rect id="connector5terminal_1_" x="37.5" y="95.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<rect id="connector6terminal_1_" x="44.6" y="95.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<rect id="connector7terminal_1_" x="51.6" y="95.4" fill="#8C8C8C" width="2.1" height="2.1"/>
+				<g id="breadboard_2_">
+					<rect id="rect20_1_" x="51.6" y="74.4" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<rect id="rect22_1_" x="44.6" y="74.4" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<rect id="rect24_1_" x="37.5" y="74.4" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<rect id="rect26_1_" x="30.5" y="74.4" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<rect id="rect28_1_" x="51.6" y="92.9" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<rect id="rect30_1_" x="44.6" y="92.9" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<rect id="rect32_1_" x="37.5" y="92.9" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<rect id="rect34_1_" x="30.5" y="92.9" fill="#8C8C8C" width="2.1" height="4.7"/>
+					<polygon id="polygon36_1_" fill="#3E3E3E" points="56.2,95.4 28.1,95.4 28.6,89.5 56.2,89.5 					"/>
+					<polygon id="polygon38_1_" fill="#010101" points="56.2,82.4 28.6,82.4 28.1,76.5 56.2,76.5 					"/>
+					<polygon id="polygon40_1_" fill="#8C8C8C" points="50.2,94.5 50.2,95.3 51.6,95.9 53.7,95.9 53.7,94.5 					"/>
+					<polygon id="polygon42_1_" fill="#8C8C8C" points="43.2,94.5 43.2,95.3 44.6,95.9 46.7,95.9 48.1,95.3 48.1,94.5 					"/>
+					<polygon id="polygon44_1_" fill="#8C8C8C" points="30.5,94.5 30.5,95.9 32.6,95.9 34,95.3 34,94.5 					"/>
+					<polygon id="polygon46_1_" fill="#8C8C8C" points="36.1,94.5 36.1,95.3 37.5,95.9 39.6,95.9 41.1,95.3 41.1,94.5 					"/>
+					<polygon id="polygon48_1_" fill="#8C8C8C" points="53.7,77.4 53.7,76 51.6,76 50.2,76.6 50.2,77.4 					"/>
+					<polygon id="polygon50_1_" fill="#8C8C8C" points="34,77.4 34,76.6 32.6,76 30.5,76 30.5,77.4 					"/>
+					<polygon id="polygon52_1_" fill="#8C8C8C" points="48.1,77.4 48.1,76.6 46.7,76 44.6,76 43.2,76.6 43.2,77.4 					"/>
+					<polygon id="polygon54_1_" fill="#8C8C8C" points="41.1,77.4 41.1,76.6 39.6,76 37.5,76 36.1,76.6 36.1,77.4 					"/>
+					<polygon id="polygon56_1_" fill="#161616" points="28.1,95.4 28.6,93.7 29.6,93.7 29.6,78.2 28.6,78.2 28.1,76.5 					"/>
+					<polygon id="polygon58_1_" fill="#1F2020" points="56.2,95.4 55.6,93.7 55.6,89.5 52.7,89.5 52.7,82.4 55.6,82.4 55.6,78.2 
+						56.2,76.5 					"/>
+					<polygon id="polygon60_1_" fill="#1C1C1C" points="52.7,89.5 55.6,89.5 55.8,88 55.8,86 52.7,86 					"/>
+					<polygon id="polygon62_1_" fill="#383938" points="55.6,82.4 52.7,82.4 52.7,86 55.8,86 55.8,83.9 					"/>
+					<path id="path64_1_" fill="#303030" d="M55.6,93.7v-4.2c-1.7-0.3-2.9-1.8-2.9-3.5c0-1.8,1.3-3.2,2.9-3.6v-4.2H28.6v15.5H55.6z"
+						/>
+					<path id="path66_1_" fill="#272626" d="M55.8,88v-4.1c-1,0.1-1.8,1-1.8,2.1C53.9,87,54.7,87.9,55.8,88z"/>
+					<circle id="circle68_1_" fill="#212121" cx="51.6" cy="81.1" r="1.4"/>
+				</g>
+			</g>
+			<g id="breadboard_1_">
+				
+					<sodipodi:namedview  bordercolor="#666666" borderopacity="1" guidetolerance="10" gridtolerance="10" pagecolor="#ffffff" objecttolerance="10" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" showgrid="false" id="namedview5969">
+					</sodipodi:namedview>
+				<g id="icon_1_" transform="matrix(0.8,0,0,0.8,0,2.8)">
+					<rect id="rect2544_2_" x="64.5" y="89.4" fill="#8C8C8C" width="2.6" height="3.9"/>
+					<rect id="rect2546_2_" x="55.7" y="89.4" fill="#8C8C8C" width="2.6" height="3.9"/>
+					<rect id="rect2548_2_" x="46.9" y="89.4" fill="#8C8C8C" width="2.6" height="3.9"/>
+					<rect id="rect2550_1_" x="38.1" y="89.4" fill="#8C8C8C" width="2.6" height="3.9"/>
+					<polygon id="polygon2564_1_" fill="#8C8C8C" points="62.7,114.6 62.7,115.6 64.5,116.4 67.1,116.4 67.1,114.6 					"/>
+					<polygon id="polygon2572_2_" fill="#8C8C8C" points="67.1,93.3 67.1,91.5 64.5,91.5 62.7,92.3 62.7,93.3 					"/>
+					<polygon id="polygon2574_2_" fill="#8C8C8C" points="42.5,93.3 42.5,92.3 40.8,91.5 38.1,91.5 38.1,93.3 					"/>
+					<polygon id="polygon2576_2_" fill="#8C8C8C" points="60.1,93.3 60.1,92.3 58.3,91.5 55.7,91.5 54,92.3 54,93.3 					"/>
+					<polygon id="polygon2578_2_" fill="#8C8C8C" points="51.3,93.3 51.3,92.3 49.6,91.5 46.9,91.5 45.2,92.3 45.2,93.3 					"/>
+					<polygon id="polygon2572_1_" fill="#8C8C8C" points="38.1,114.6 38.1,116.4 40.8,116.4 42.5,115.6 42.5,114.6 					"/>
+					<polygon id="polygon2574_1_" fill="#8C8C8C" points="62.7,114.6 62.7,115.6 64.5,116.4 67.1,116.4 67.1,114.6 					"/>
+					<polygon id="polygon2576_1_" fill="#8C8C8C" points="45.2,114.6 45.2,115.6 46.9,116.4 49.6,116.4 51.3,115.6 51.3,114.6 					
+						"/>
+					<polygon id="polygon2578_1_" fill="#8C8C8C" points="54,114.6 54,115.6 55.7,116.4 58.3,116.4 60.1,115.6 60.1,114.6 					"/>
+					<g id="g2602_1_">
+						<g id="text6122_1_">
+							
+								<text id="tspan6124_1_" transform="matrix(-1.2182 0 0 -1.25 67.126 109.3291)" fill="#F3F3F3" font-family="'OCRAStd'" font-size="4.2569">attiny85</text>
+						</g>
+					</g>
+					<rect id="rect2552_1_" x="64.5" y="114.6" fill="#8C8C8C" width="2.6" height="3.8"/>
+					<rect id="rect2544_1_" x="38.1" y="114.6" fill="#8C8C8C" width="2.6" height="3.8"/>
+					<rect id="rect2548_1_" x="55.7" y="114.6" fill="#8C8C8C" width="2.6" height="3.8"/>
+					<rect id="rect2546_1_" x="46.9" y="114.6" fill="#8C8C8C" width="2.6" height="3.8"/>
+				</g>
+				<rect id="connector3pin_1_" x="30.5" y="74.3" fill="none" width="2.1" height="3.1"/>
+				<rect id="connector4pin_1_" x="30.5" y="94.4" fill="none" width="2.1" height="3.1"/>
+				<rect id="connector5pin_1_" x="37.5" y="94.5" fill="none" width="2.1" height="3.1"/>
+				<rect id="connector6pin_1_" x="44.6" y="94.5" fill="none" width="2.1" height="3.1"/>
+				<rect id="connector7pin_1_" x="51.6" y="94.5" fill="none" width="2.1" height="3.1"/>
+				<rect id="connector0pin_4_" x="51.6" y="74.3" fill="none" width="2.1" height="3.1"/>
+				<rect id="connector1pin_4_" x="44.6" y="74.3" fill="none" width="2.1" height="3.1"/>
+				<rect id="connector2pin_1_" x="37.5" y="74.3" fill="none" width="2.1" height="3.1"/>
+			</g>
+		</g>
+	</g>
+	<rect x="59.6" y="25.7" display="inline" width="12.1" height="28.4"/>
+	<rect x="13.6" y="25.7" display="inline" fill="#ED1C24" width="12.1" height="23"/>
+	<rect x="29.1" y="25.7" display="inline" fill="#39B54A" width="12.1" height="23"/>
+	<rect x="44.6" y="25.7" display="inline" fill="#939598" width="12.1" height="23"/>
+	<path display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" d="M77.9,118.7c0,6.6-5.4,12-12,12H20.3
+		c-6.6,0-12-5.4-12-12v-88c0-6.6,5.4-12,12-12h45.7c6.6,0,12,5.4,12,12V118.7z"/>
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M68.6,123.4c-0.6,0.6-1.2,1.2-1.9,1.7"/>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5.057,5.057" d="M62.1,127.1
+				c-0.7,0.1-1.5,0.2-2.3,0.2H14.1c-6.6,0-12-5.4-12-12v-88c0-6.6,5.4-12,12-12h45.7c6.6,0,12,5.4,12,12v83"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="71.8" y1="112.8" x2="71.8" y2="115.3"/>
+			<g>
+				<path d="M71.3,124.3c-1.4,2-2.9,4-4.3,6c2.1-0.5,3.3-1.9,4.6-3.5c0.5-0.6,1-1.2,1.5-1.7c0.1-0.2,0.5-0.8,0.8-0.8
+					c0.8,0,1.6-0.1,2.3-0.4c0.4-0.2,1-0.7,1.3-0.3c0.3,0.3,0.3,0.8,0.8,1.1c0.7,0.4,1.6,0.4,2.3-0.1c0.7-0.5,1-1.4,0.5-2.1
+					c-0.7-1.1-2.1-0.7-3-0.1c-0.7,0.4-1.3,0.8-2.1,1c-0.4,0.1-0.8,0.1-1.2,0.1c-0.5,0-0.6,0-0.7-0.4c-0.3-1.5,1.2-2.3,2.2-3.1
+					c1.6-1.3,0.4-3.4-1.5-2.9c-0.7,0.2-1.3,0.8-1.3,1.6c0,0.4,0.1,0.8,0.4,1.1c0.2,0.3,0.8,0.5,0.7,0.9c-0.1,0.5-1.1,1.3-1.4,1.7
+					c-0.7,0.8-0.7,0.8-1.7,0.8c-0.8,0-1.6,0-2.3-0.1c-0.2,0-0.8-0.1-1,0.1c-0.2,0.4-0.3,0.8-0.5,1.2C68.8,124.3,70,124.3,71.3,124.3
+					z M78.4,124c-1.1-1.1,1-2.4,2-1.6C81.7,123.5,79.4,125.1,78.4,124z M76,119.3c-1.1,1.1-3-0.3-1.8-1.5
+					C75.3,116.7,77.3,118.1,76,119.3z"/>
+			</g>
+		</g>
+	</g>
+	<line fill="#010101" stroke="#ED1C24" stroke-width="6.12" stroke-linecap="round" x1="16.7" y1="25.3" x2="16.7" y2="89.6"/>
+	<line fill="#010101" stroke="#ED1C24" stroke-width="6.12" stroke-linecap="round" x1="16.5" y1="89.6" x2="47.2" y2="89.6"/>
+	<line fill="#010101" stroke="#010101" stroke-width="6.12" stroke-linecap="round" x1="56.1" y1="33.7" x2="56.1" y2="118.3"/>
+	<line fill="#010101" stroke="#010101" stroke-width="6.12" stroke-linecap="round" x1="52.1" y1="81" x2="24.7" y2="81"/>
+	<line fill="#010101" stroke="#ED1C24" stroke-width="6.12" stroke-linecap="round" x1="48.2" y1="89.6" x2="48.2" y2="102.1"/>
+	<line fill="#010101" stroke="#939598" stroke-width="6.12" stroke-linecap="round" x1="40.8" y1="61.3" x2="40.8" y2="71.5"/>
+	<line fill="#39B54A" stroke="#39B54A" stroke-width="6.12" stroke-linecap="round" x1="33" y1="61.3" x2="33" y2="70.9"/>
+	<line fill="#39B54A" stroke="#39B54A" stroke-width="6.12" stroke-linecap="round" x1="40.4" y1="98.3" x2="40.4" y2="107.9"/>
+	<rect x="19.5" y="106.4" fill="#39B54A" stroke="#39B54A" stroke-width="6.12" stroke-linecap="round" width="21" height="13.6"/>
+	<rect x="46.4" y="107.9" width="12.1" height="14.7"/>
+	<line fill="#010101" stroke="#010101" stroke-width="6.12" stroke-linecap="round" x1="24.4" y1="70.6" x2="24.4" y2="81"/>
+	<rect x="53.4" y="22.2" width="12.1" height="28.4"/>
+	<rect x="7.4" y="22.2" fill="#ED1C24" width="12.1" height="23"/>
+	<rect x="22.9" y="22.2" fill="#39B54A" width="12.1" height="23"/>
+	<rect x="38.4" y="22.2" fill="#939598" width="12.1" height="23"/>
+</g>
+</svg>
