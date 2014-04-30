@@ -30,12 +30,12 @@ The oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier and low-
 
 Materials for one oneKey
 -------------------
-*Vinyl Cutter ([Buy](about:blank)| [HowTo](about:blank))
-*3M Copper Tape ([Buy](about:blank)| [HowTo](about:blank))
-*Attiny85 and ISP ([Buy](about:blank)| [HowTo](about:blank))
-*Resistors: 2x 68 ohm , 1x 1.5K, 1x ohm.
-*Zener Diode ([Buy](about:blank)| [HowTo](about:blank))
-*USB Cable ([Buy](about:blank)| [HowTo](about:blank))
+* Vinyl Cutter ([Buy](about:blank) | [HowTo](about:blank))
+* 3M Copper Tape ([Buy](about:blank) | [HowTo](about:blank))
+* Attiny85 and ISP ([Buy](about:blank) | [HowTo](about:blank))
+* Resistors: 2x 68 ohm , 1x 1.5K, 1x ohm.
+* Zener Diode ([Buy](about:blank) | [HowTo](about:blank))
+* USB Cable ([Buy](about:blank) | [HowTo](about:blank))
 
 Repository Contents
 -------------------
