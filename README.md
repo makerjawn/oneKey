@@ -1,4 +1,4 @@
-jawnWare
+jawnWare: oneKey
 ===========
 
 ![jawnWare_8](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg) 
@@ -20,34 +20,46 @@ From Sparkfun's [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeym
 
 *"The MaKey MaKey uses high resistance switching to detect when you've made a connection even through materials that aren't very conductive (like leaves, pasta or people). This technique attracts noise on the input, so a moving window averager is used to lowpass the noise. The on-board ATMega32u4 communicates with your computer using the Human Interface Device (HID) protocol which means that it can act like a keyboard or mouse."*
 
-Currently I've cobbled together some code/circuits to quickly prototype with 2 ATTINY85's. It's definitely not as streamlined as I'd like, but over time I plan on iterating to lower the cost(currently ~$3.50). As of right now I'm more focused on building instructors/how-to materials and seeing how participants interact with eveything.
+Methods
+-------------------
+The oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier and low-cost method for creating traces to solder onto. If working indoors take precautions with ventilalation etc.
 
+Materials for one oneKey
+-------------------
+*Vinyl Cutter ([Buy](about:blank)| [HowTo](about:blank))
+*3M Copper Tape ([Buy](about:blank)| [HowTo](about:blank))
+*Attiny85 and ISP ([Buy](about:blank)| [HowTo](about:blank))
+*Resistors: 2x 68 ohm , 1x 1.5K, 1x ohm.
+*Zener Diode ([Buy](about:blank)| [HowTo](about:blank))
+*USB Cable ([Buy](about:blank)| [HowTo](about:blank))
 
 Repository Contents
 -------------------
-* **/Firmware** - Example firmware files
-* **/Hardware** - All design files
+* **/Firmware** - Arduino Files+
+* **/Hardware** - All design files (EAGLE, FRITIZING, AI+)
 * **/Instructon** - Instructors materials
 
 Variations
 ----------------
-
 **Standard**  
-This build requres soldering and can take over an hour to construct.
+This build requres soldering and can take an hour to construct.
 
-**Quick-build**  
+**Quick-build(Still in Development)**  
 This build is solderless, can be built in less than an hour.
 
-Sources
+Links/Sources
 -------------------
+* [Digispark](about:blank)
+* [Digispark IDE](about:blank)
+* [Digispark Clone](about:blank)
 * [BhavyaShukla - Makey-makey-using-arduino-uno-r3-Multiple-input](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
-* [Flip's - 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605)
+* [Moving Avarage Library](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
 * [JoyLab's/Sparkfun's - MaKey MaKey](https://github.com/sparkfun/makeymakey)
-
+* [avrdude tutorials](about:blank)
 
 License Information
 -------------------
-
 The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
 All other code is open source hardware so please feel free to do anything you want with it; 
 you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+Please support [Digispark](https://github.com/sparkfun/makeymakey) and [JoyLabs](https://github.com/sparkfun/makeymakey) and buy their products if you decide to remix. Without their creativity and ingenuity this project would never have happened.

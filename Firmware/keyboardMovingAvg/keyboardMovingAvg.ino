@@ -1,12 +1,17 @@
+//29.04.14
+//http://github.com/makerjawn/jawnware
+//info@makerjawn.org
+//A low-cost one input MaKey MaKey derivative.
+
+//top secret launch codes
 //avrdude -c usbtiny -p attiny85 -b 19200 -U flash:w:micronucleus-1.03-2secs.hex -F
 //avrdude -c usbtiny -p attiny85 -U lfuse:w:0xE1:m -U hfuse:w:0xDD:m -U efuse:w:0xFE:m
-
 
 
 #include "DigiKeyboard.h"
 #include <MovingAvarageFilter.h>
 
-int led(0);
+int led(0); //I have hidden an LED blink on input
 
 MovingAvarageFilter movingAvarageFilter(20);
 
@@ -14,8 +19,8 @@ boolean check = false;
 
 void setup() {
 
-  pinMode(led,OUTPUT);
-  pinMode(7,INPUT);
+  pinMode(led,OUTPUT); 
+  pinMode(7,INPUT); //Sense PIN 
 }
 
 void loop() {
@@ -32,7 +37,15 @@ void loop() {
   if (output < 400) { // you can change this parameter to fine tune the sensitivity
     if (!check){
       digitalWrite(led, LOW);
-      DigiKeyboard.sendKeyStroke(KEY_SPACE); 
+      //Other key presses:
+      //Up
+      //Down
+      //Left
+      //Right
+      //Space
+      //Enter
+      //Key Press:
+      DigiKeyboard.sendKeyStroke(KEY_SPACE);
       check = !check;
     }
   }
@@ -43,7 +56,6 @@ void loop() {
       check = !check;
     }
   }
- // DigiKeyboard.println(int(output));
 }
 
 
