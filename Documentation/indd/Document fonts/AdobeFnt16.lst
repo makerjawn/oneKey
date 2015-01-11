@@ -1,0 +1,69 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1380578070
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PropCourierSans
+FamilyName:PropCourierSans
+StyleName:Regular
+MenuName:PropCourierSans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PropCourier
+WritingScript:Roman
+OutlineFileName:\PropCourierSans-1.4.ttf
+DataFormat:sfntData
+FileLength:63956
+FileModTime:1318607286
+NameArray:0,Mac,4,PropCourier
+NameArray:0,Win,1,PropCourierSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PropCourierSans-Bold
+FamilyName:PropCourierSans
+StyleName:Bold
+MenuName:PropCourierSans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:PropCourierSans
+WritingScript:Roman
+OutlineFileName:\PropCourierSans-Bold-1.4.ttf
+DataFormat:sfntData
+FileLength:62336
+FileModTime:1318607286
+NameArray:0,Mac,4,PropCourierSans
+NameArray:0,Win,1,PropCourierSans
+%EndFont
+
