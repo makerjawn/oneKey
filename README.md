@@ -4,8 +4,6 @@ jawnWare: oneKey
 ![jawnWare_8](https://farm8.staticflickr.com/7541/16070417977_e72329ab9a_z.jpg) 
 
 
- [*jawnWare Process Blog*](http://jawnware.tumblr.com/)
-
 Project Focus
 -------------------
 Developing a low-cost (<$2) and accessible derivative of the MaKey MaKey so that it can be sustainably deployed via workshops at various library branches. 
@@ -48,7 +46,7 @@ Variations
 ----------------
 **Vinyl Cut Copper Tape** 
 
-![oneKey Vinyl](https://farm8.staticflickr.com/7570/16070411717_2fd34ab9fd_m.jpg) 
+![oneKey Vinyl](https://farm8.staticflickr.com/7500/16254418821_7e90b29a9c_b.jpg) 
 
 This build requres soldering and takes an hour to construct. The tape can be tricky to adhere to a substrate, but for all intents and purposes IT WORKS!
 
