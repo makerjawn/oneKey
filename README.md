@@ -26,14 +26,19 @@ Methods
 -------------------
 The original oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier and low-cost method for creating traces to solder onto. If working indoors take precautions with ventilalation etc. Working currently on a PCB kit version.
 
-Materials for one oneKey
+Need for the oneKey
 -------------------
-* Vinyl Cutter ([Buy](about:blank) | [HowTo](about:blank))
 * 3M Copper Tape ([Buy](about:blank) | [HowTo](about:blank))
 * Attiny85 and ISP ([Buy](about:blank) | [HowTo](about:blank))
 * Resistors: 2x 68 ohm , 1x 1.5K, 1x ohm.
 * Zener Diode ([Buy](about:blank) | [HowTo](about:blank))
 * USB Cable ([Buy](about:blank) | [HowTo](about:blank))
+
+* Vinyl Cutter ([Buy](about:blank) | [HowTo](about:blank))
+* Soldering Iron ([Buy](about:blank) | [HowTo](about:blank))
+* Needle Nose Pliers ([Buy](about:blank) | [HowTo](about:blank))
+* Wire Cutter ([Buy](about:blank) | [HowTo](about:blank))
+* Wire Stripper ([Buy](about:blank) | [HowTo](about:blank))
 
 Repository Contents
 -------------------
