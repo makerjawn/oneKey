@@ -57,6 +57,7 @@ Requires the installation of the Digispark Arduino IDE to code.
 **PCB(REV.1)**  
 
 ![PCB](https://i.imgur.com/47suY3K.png)
+
 ![PCB2](https://i.imgur.com/VneJiBF.png)
 
 Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in Hardware.
