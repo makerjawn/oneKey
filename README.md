@@ -38,6 +38,7 @@ Need for the oneKey
 * Needle Nose Pliers ([Buy](about:blank) | [HowTo](about:blank))
 * Wire Cutter ([Buy](about:blank) | [HowTo](about:blank))
 * Wire Stripper ([Buy](about:blank) | [HowTo](about:blank))
+* Tiny AVR Programmer or Equivalent ([Buy](https://www.sparkfun.com/products/11801) | [HowTo](https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/))
 
 Repository Contents
 -------------------
@@ -54,7 +55,8 @@ Variations
 
 This build requres soldering and takes an hour to construct. The tape can be tricky to adhere to a substrate, but for all intents and purposes IT WORKS!
 
-Requires the installation of the Digispark Arduino IDE to code.
+Requires the installation of the Digispark Arduino IDE to upload and run code from /Firmware.
+All vector files needed for vinylcutting reside in /Hardware.
 
 **PCB(REV.1)**  
 
@@ -62,7 +64,7 @@ Requires the installation of the Digispark Arduino IDE to code.
 
 ![PCB2](https://i.imgur.com/VneJiBF.png)
 
-Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in Hardware.
+Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in /Hardware.
 
 **Quick-build(Still in Development)**  
 This build is solderless, can be built in less than an hour.
