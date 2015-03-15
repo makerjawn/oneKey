@@ -47,13 +47,17 @@ Repository Contents
 Variations
 ----------------
 **Vinyl Cut Copper Tape** 
+
 ![oneKey Vinyl](https://farm8.staticflickr.com/7570/16070411717_2fd34ab9fd_m.jpg) 
 
 This build requres soldering and takes an hour to construct. The tape can be tricky to adhere to a substrate, but for all intents and purposes IT WORKS!
 
+Requires the installation of the Digispark Arduino IDE to code.
+
 **PCB(REV.1)**  
 ![PCB](https://i.imgur.com/8pCERxd.png)
 ![PCB2](https://i.imgur.com/VneJiBF.png)
+
 Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in Hardware.
 
 **Quick-build(Still in Development)**  
