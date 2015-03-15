@@ -1,7 +1,7 @@
 jawnWare: oneKey
 ===========
 
-![jawnWare_8](http://farm8.staticflickr.com/7391/12524884355_5e1eddc549_m.jpg) 
+![jawnWare_8](https://farm8.staticflickr.com/7541/16070417977_e72329ab9a_m.jpg) 
 
 
  [*jawnWare Process Blog*](http://jawnware.tumblr.com/)
@@ -26,7 +26,7 @@ From Sparkfun's [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeym
 
 Methods
 -------------------
-The oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier and low-cost method for creating traces to solder onto. If working indoors take precautions with ventilalation etc.
+The original oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier and low-cost method for creating traces to solder onto. If working indoors take precautions with ventilalation etc. Working currently on a PCB kit version.
 
 Materials for one oneKey
 -------------------
@@ -42,24 +42,32 @@ Repository Contents
 * **/Firmware** - Arduino Files+
 * **/Hardware** - All design files (EAGLE, FRITIZING, AI+)
 * **/Instructon** - Instructors materials
+* **/Supplies** - Previous part orders
 
 Variations
 ----------------
-**Standard**  
-This build requres soldering and can take an hour to construct.
+**Vinyl Cut Copper Tape** 
+![oneKey Vinyl](https://farm8.staticflickr.com/7570/16070411717_2fd34ab9fd_m.jpg) 
+
+This build requres soldering and takes an hour to construct. The tape can be tricky to adhere to a substrate, but for all intents and purposes IT WORKS!
+
+**PCB(REV.1)**  
+![PCB](https://i.imgur.com/8pCERxd.png)
+![PCB2](https://i.imgur.com/VneJiBF.png)
+Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in Hardware.
 
 **Quick-build(Still in Development)**  
 This build is solderless, can be built in less than an hour.
 
 Links/Sources
 -------------------
-* [Digispark](about:blank)
+* [Digispark](http://digistump.com/products/1)
 * [Digispark IDE](about:blank)
 * [Digispark Clone](about:blank)
 * [BhavyaShukla - Makey-makey-using-arduino-uno-r3-Multiple-input](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
 * [Moving Avarage Library](https://github.com/BhavyaShukla/Makey-makey-using-arduino-uno-r3-Multiple-inputs-)
 * [JoyLab's/Sparkfun's - MaKey MaKey](https://github.com/sparkfun/makeymakey)
-* [avrdude tutorials](about:blank)
+* [avrdude tutorials](https://learn.adafruit.com/usbtinyisp/avrdude)
 
 toDo
 -------------------
@@ -74,7 +82,7 @@ toDo
 
 brief history
 -------------------
-To date two iterations of the one input MaKey MaKey derivative, or oneKey for short, have been deployed. The first generation proved that youth could make, hack, and play with their own hardware. After various form and material explorations as well as a circuit redesign it is currently in its second phase. The new design is easier to handle, the cost per unit has dropped from $7 to $1.30, it's quicker to make, and there is still much more to refine.
+To date two iterations of the one input MaKey MaKey derivative, "MaKey MaKey MaKey", or officially "oneKey" for short, have been deployed. The first generation proved that youth could make, hack, and play with their own hardware. After various form and material explorations as well as a circuit redesign it is currently in its second phase. The new design is easier to handle, the cost per unit has dropped from $7 to $1.30, it's quicker to make, and there is still much more to refine.
 
 people
 -------------------
