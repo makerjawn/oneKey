@@ -33,7 +33,6 @@ Need for the oneKey
 * Resistors: 2x 68 ohm , 1x 1.5K, 1x ohm.
 * Zener Diode ([Buy](about:blank) | [HowTo](about:blank))
 * USB Cable ([Buy](about:blank) | [HowTo](about:blank))
-
 * Vinyl Cutter ([Buy](about:blank) | [HowTo](about:blank))
 * Soldering Iron ([Buy](about:blank) | [HowTo](about:blank))
 * Needle Nose Pliers ([Buy](about:blank) | [HowTo](about:blank))
