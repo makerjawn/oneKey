@@ -29,9 +29,10 @@ The original oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier
 Need for the oneKey
 -------------------
 * 3M Copper Tape ([Buy](about:blank) | [HowTo](about:blank))
-* Attiny85 and ISP ([Buy](about:blank) | [HowTo](about:blank))
-* Resistors: 2x 68 ohm , 1x 1.5K, 1x ohm.
-* Zener Diode ([Buy](about:blank) | [HowTo](about:blank))
+* Attiny85 ([Buy](http://www.digikey.com/product-detail/en/0/ATTINY85-20PU-ND) | [HowTo](about:blank))
+* Attiny85 Standoff/ IC DIP Socket([Buy](http://www.digikey.com/product-detail/en/0/ATTINY85-20PU-ND) | [HowTo](about:blank))
+* Resistors: 2x [68 ohm](http://www.digikey.com/product-detail/en/0/S68HCT-ND) , 1x [1.5K](http://www.digikey.com/product-detail/en/0/S1.5KHCT-ND), 1x [1M ohm](http://www.digikey.com/product-detail/en/0/CF14JT1M00CT-ND).
+* Zener Diode ([Buy](http://www.digikey.com/product-detail/en/0/1N4148DICT-ND) | [HowTo](about:blank))
 * USB Cable ([Buy](about:blank) | [HowTo](about:blank))
 * Vinyl Cutter ([Buy](about:blank) | [HowTo](about:blank))
 * Soldering Iron ([Buy](about:blank) | [HowTo](about:blank))
@@ -39,7 +40,6 @@ Need for the oneKey
 * Wire Cutter ([Buy](about:blank) | [HowTo](about:blank))
 * Wire Stripper ([Buy](about:blank) | [HowTo](about:blank))
 * Tiny AVR Programmer or Equivalent ([Buy](https://www.sparkfun.com/products/11801) | [HowTo](https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/))
-* [Use this Digikey order!](http://www.digikey.com/short/72vhv)
 
 Repository Contents
 -------------------
