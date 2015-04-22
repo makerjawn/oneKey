@@ -85,7 +85,7 @@ toDo
 * easier peeling
 * solderless
 * remove usb cable
-* thruhole prototype
+* ~~thruhole prototype~~
 * non-digispark
 * attiny45?
 * find other hardware thruhole prototype
