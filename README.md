@@ -33,7 +33,7 @@ Need for the oneKey
 * Attiny85 Standoff/ IC DIP Socket([Buy](http://www.digikey.com/product-detail/en/0/ATTINY85-20PU-ND) | [HowTo](about:blank))
 * Resistors: 2x [68 ohm](http://www.digikey.com/product-detail/en/0/S68HCT-ND) , 1x [1.5K](http://www.digikey.com/product-detail/en/0/S1.5KHCT-ND), 1x [1M ohm](http://www.digikey.com/product-detail/en/0/CF14JT1M00CT-ND).
 * Zener Diode ([Buy](http://www.digikey.com/product-detail/en/0/1N4148DICT-ND) | [HowTo](about:blank))
-* USB Cable ([Buy](about:blank) | [HowTo](about:blank))
+* USB Cable ([Buy](http://www.amazon.com/Eversame-Colorful-Hi-Speed-Universal-Phones-Black/dp/B00OC6WR22/ref=sr_1_1?s=pc&ie=UTF8&qid=1429671002&sr=1-1&keywords=10+pack+usb+cables) | [HowTo](about:blank))
 * Vinyl Cutter ([Buy](about:blank) | [HowTo](about:blank))
 * Soldering Iron ([Buy](about:blank) | [HowTo](about:blank))
 * Needle Nose Pliers ([Buy](about:blank) | [HowTo](about:blank))
