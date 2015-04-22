@@ -28,7 +28,7 @@ The original oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier
 
 Need for the oneKey
 -------------------
-* 3M Copper Tape ([Buy](about:blank) | [HowTo](about:blank))
+* 3M Copper Tape (used to be much cheaper, working on a thinner tape iteration.) ([Buy](http://www.amazon.com/inch-yds-Copper-Foil-Tape/dp/B00CBPM9RY/ref=sr_1_2?ie=UTF8&qid=1429671129&sr=8-2&keywords=copper+tape+3%22) | [HowTo](about:blank))
 * Attiny85 ([Buy](http://www.digikey.com/product-detail/en/0/ATTINY85-20PU-ND) | [HowTo](about:blank))
 * Attiny85 Standoff/ IC DIP Socket([Buy](http://www.digikey.com/product-detail/en/0/ATTINY85-20PU-ND) | [HowTo](about:blank))
 * Resistors: 2x [68 ohm](http://www.digikey.com/product-detail/en/0/S68HCT-ND) , 1x [1.5K](http://www.digikey.com/product-detail/en/0/S1.5KHCT-ND), 1x [1M ohm](http://www.digikey.com/product-detail/en/0/CF14JT1M00CT-ND).
