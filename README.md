@@ -39,6 +39,7 @@ Need for the oneKey
 * Wire Cutter ([Buy](about:blank) | [HowTo](about:blank))
 * Wire Stripper ([Buy](about:blank) | [HowTo](about:blank))
 * Tiny AVR Programmer or Equivalent ([Buy](https://www.sparkfun.com/products/11801) | [HowTo](https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/))
+* [Use this Digikey order!](http://www.digikey.com/short/72vhv)
 
 Repository Contents
 -------------------
