@@ -1,4 +1,4 @@
-jawnWare: oneKey (under development)
+jawnWare: oneKey (obsolete, check forked)
 ===========
 
 ![jawnWare_8](https://farm8.staticflickr.com/7541/16070417977_e72329ab9a_z.jpg) 
